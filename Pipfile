@@ -9,9 +9,14 @@ openpyxl = "*"
 pypdf2 = "*"
 pdfplumber = "*"
 pdf2image = "*"
+boto3 = "*"
+pyinstaller = "*"
+mysql-connector-python = "*"
 
 [dev-packages]
 pytest = "*"
+wheel = "*"
+setuptools = "*"
 
 [requires]
 python_version = "3.12"
